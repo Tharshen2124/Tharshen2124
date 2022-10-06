@@ -5,7 +5,7 @@ My current dream is to become Full Stack Developer.
   
  Familar with:
   - HTML
-  - CSS
+  - CSS -> <a href="file:///C:/Users/LENOVO/Downloads/Tharshen's%20profile%20_%20Codecademy.pdf">CSS Certificate</a>
   - Javascript (vanilla)
   - C
   - PHP
