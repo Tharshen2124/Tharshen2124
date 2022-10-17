@@ -8,7 +8,9 @@ My current dream is to become Full Stack Developer.
   - CSS 
   - Javascript (vanilla)
   - C
-  - PHP
+  - PHP, 
+  laravel
+  
 
 
 
