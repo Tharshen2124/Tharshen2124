@@ -2,14 +2,15 @@
 
 Im currently studying for Diploma in Information Technology at Multimedia University, Malaysia. 
 My current dream is to become Full Stack Developer.  
+
+Status: Using laravel now
   
  Familar with:
   - HTML
   - CSS 
   - Javascript (vanilla)
   - C
-  - PHP, 
-  laravel
+  - PHP, laravel 
   
 
 
