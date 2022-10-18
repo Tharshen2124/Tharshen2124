@@ -3,7 +3,7 @@
 Im currently studying for Diploma in Information Technology at Multimedia University, Malaysia. 
 My current dream is to become Full Stack Developer.  
 
-Status: Learning laravel now
+Status: Learning laravel and tailwind now
   
  Familar with:
   - HTML
