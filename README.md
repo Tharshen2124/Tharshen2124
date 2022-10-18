@@ -7,10 +7,10 @@ Status: Learning laravel now
   
  Familar with:
   - HTML
-  - CSS 
+  - CSS -> tailwind
   - Javascript (vanilla)
   - C
-  - PHP, laravel 
+  - PHP -> laravel 
   
 
 
