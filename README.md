@@ -9,8 +9,9 @@ Status: Learning laravel and tailwind now
   - HTML
   - CSS -> tailwind
   - Javascript (vanilla)
-  - C
+  - C, C++
   - PHP -> laravel 
+  - mySQLdatabase (phpmyadmin)
   
 
 
