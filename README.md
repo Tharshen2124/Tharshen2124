@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Tharshen A/L Surian Balan 😃</h1>
 
-Im currently studying for Diploma in Information Technology at Multimedia University, Malaysia. 
-My current dream is to become Full Stack Developer.  
+I'm studying for Diploma in Information Technology at Multimedia University, Malaysia. 
+I'm currently doing Full Stack Development in my free time by going through frameworks such as laravel and tailwind before i enter into others like react.js and node.js.  
 
 Status: Learning laravel and tailwind now
   
