@@ -7,7 +7,7 @@ Status: Learning laravel and tailwind now
   
  Familar with:
   - HTML
-  - CSS -> tailwind
+  - CSS -> tailwind, Bootstrap5
   - Javascript -> alpine.js
   - C, C++
   - PHP -> laravel 
