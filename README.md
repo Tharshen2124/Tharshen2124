@@ -8,7 +8,7 @@ Status: Learning laravel and tailwind now
  Familar with:
   - HTML
   - CSS -> tailwind, Bootstrap5
-  - Javascript -> alpine.js
+  - Javascript -> React, alpine.js
   - C, C++
   - PHP -> laravel 
   - mySQLdatabase (phpmyadmin)
