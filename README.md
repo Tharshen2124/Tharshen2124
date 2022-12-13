@@ -11,7 +11,7 @@ Status: Learning laravel and tailwind now
   - Javascript -> React, alpine.js
   - C, C++
   - PHP -> laravel 
-  - mySQLdatabase (phpmyadmin)
+  - mySQLdatabase 
   
 
 
