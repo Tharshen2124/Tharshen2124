@@ -2,9 +2,8 @@
 
 ### - UI UX Designer
 ### - Full Stack Developer
-
-
-
+<br>
+<br>
 <h2>Tech Stack</h2>
 
 <h3>Languages: </h3>
