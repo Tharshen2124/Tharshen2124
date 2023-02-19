@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Tharshen A/L Surian Balan 😃</h1>
 
-- UI UX Designer
-- Full Stack Developer
+### - UI UX Designer
+### - Full Stack Developer
 
 <h2>Tech Stack</h2>
 
