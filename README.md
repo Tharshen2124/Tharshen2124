@@ -4,7 +4,6 @@
 ### - Full Stack Developer
 <br>
 <br>
-
 <h2>GitHub Stats: </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharshen2124&show_icons=true&theme=radical)
@@ -34,7 +33,6 @@
 
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 
-<br>
 <br>
 <br>
 <hr>
