@@ -2,7 +2,16 @@
 
 ### - UI UX Designer
 ### - Full Stack Developer
+<br>
+<br>
 
+<h2>GitHub Stats: </h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharshen2124&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharshen2124&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
 <h2>Tech Stack</h2>
 
 <h3>Languages: </h3>
@@ -25,6 +34,11 @@
 
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 
+<br>
+<br>
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=Tharshen2124&label=Profile%20Views&color=4&pretty=true)](https://visitcount.itsvg.in)
 
 <!---
 Tharshen2124/Tharshen2124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
