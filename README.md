@@ -4,6 +4,9 @@
 ### - Full Stack Developer
 <br>
 <br>
+<h2>Connect with me: </h2>
+<a href="https://instagram.com/tharshen_sb?igshid=YmJhNjkzNzY="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://stackoverflow.com/users/19012424/tharshen"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+
 <h2>GitHub Stats: </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tharshen2124&show_icons=true&theme=radical)
