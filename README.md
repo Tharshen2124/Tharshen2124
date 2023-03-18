@@ -44,8 +44,6 @@
 <br>
 <hr>
 
-[![](https://visitcount.itsvg.in/api?id=Tharshen2124&label=Profile%20Views&color=4&pretty=true)](https://visitcount.itsvg.in)
-
 <!---
 Tharshen2124/Tharshen2124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
