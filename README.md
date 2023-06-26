@@ -8,6 +8,7 @@
 <br>
 <h2>Connect with me: </h2>
 <a href="https://instagram.com/tharshen_sb?igshid=YmJhNjkzNzY="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://stackoverflow.com/users/19012424/tharshen"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tharshen-surianbalan-205a94256/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <br>
 <br>
 <h2>GitHub Stats: </h2>
