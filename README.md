@@ -1,7 +1,7 @@
 # Hi there, I'm Tharshen
 
-- Full Stack Developer
-- UIUX Designer
+- <h3>Full Stack Developer</h3>
+- <h3>UIUX Designer</h3>
 <br>
 
 ## Github Stats:
