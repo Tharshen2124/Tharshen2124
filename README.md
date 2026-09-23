@@ -12,15 +12,6 @@
 
 Hi, I'm Tharshen, a final-year Computer Science student at Multimedia University's Cyberjaya campus. I'm focused on backend development, DevOps, and site reliability engineering, and I've spent the last while digging into cloud infrastructure and observability tooling. I previously interned at iFAST and MoneyLion, and you can see some of what I've built below. If you're hiring fresh grads for roles in this space, feel free to reach out.
 
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharshen2124&layout=compact&theme=radical)
-<br>
-<br>
-![Tharshen's GitHub stats](https://github-readme-stats.vercel.app/api?_icons=true&theme=radical)
-<br>
-<br>
-
 ## Tech Stack
 
 **Languages**
